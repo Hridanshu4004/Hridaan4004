@@ -24,7 +24,7 @@ Here are some of the technologies I work with:
 ### 📈 GitHub Stats  
 | | |
 |---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hridaan4004) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridaan4004&show_icons=true) |  
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hridanshu4004) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridanshu4004&show_icons=true) |  
 
 ### 💡 Fun Facts  
 - 🌄 I come from the beautiful state of **Himachal Pradesh**  
