@@ -24,14 +24,7 @@ Here are some of the technologies I work with:
 ### 📈 GitHub Stats  
 | | |
 |---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hridanshu4004) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridanshu4004&show_icons=true) |  
-
-### 💡 Fun Facts  
-- 🌄 I come from the beautiful state of **Himachal Pradesh**  
-- 🎯 Goal: Become a **full-stack developer** and work on **AI-powered applications**  
-
-### 📫 Connect With Me  
-- LinkedIn: [# Hi there 👋, I’m Hridanshu  
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hridanshu4004) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridanshu4004&show_icons=true) |   
 
 
 ### 💡 Fun Facts  
